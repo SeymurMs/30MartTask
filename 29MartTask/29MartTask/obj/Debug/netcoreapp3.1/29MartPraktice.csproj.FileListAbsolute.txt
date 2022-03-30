@@ -1,0 +1,14 @@
+C:\Users\tu5zlmzfj\source\repos\29MartPraktice\29MartPraktice\bin\Debug\netcoreapp3.1\29MartPraktice.exe
+C:\Users\tu5zlmzfj\source\repos\29MartPraktice\29MartPraktice\bin\Debug\netcoreapp3.1\29MartPraktice.deps.json
+C:\Users\tu5zlmzfj\source\repos\29MartPraktice\29MartPraktice\bin\Debug\netcoreapp3.1\29MartPraktice.runtimeconfig.json
+C:\Users\tu5zlmzfj\source\repos\29MartPraktice\29MartPraktice\bin\Debug\netcoreapp3.1\29MartPraktice.runtimeconfig.dev.json
+C:\Users\tu5zlmzfj\source\repos\29MartPraktice\29MartPraktice\bin\Debug\netcoreapp3.1\29MartPraktice.dll
+C:\Users\tu5zlmzfj\source\repos\29MartPraktice\29MartPraktice\bin\Debug\netcoreapp3.1\29MartPraktice.pdb
+C:\Users\tu5zlmzfj\source\repos\29MartPraktice\29MartPraktice\obj\Debug\netcoreapp3.1\29MartPraktice.csproj.AssemblyReference.cache
+C:\Users\tu5zlmzfj\source\repos\29MartPraktice\29MartPraktice\obj\Debug\netcoreapp3.1\29MartPraktice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu5zlmzfj\source\repos\29MartPraktice\29MartPraktice\obj\Debug\netcoreapp3.1\29MartPraktice.AssemblyInfoInputs.cache
+C:\Users\tu5zlmzfj\source\repos\29MartPraktice\29MartPraktice\obj\Debug\netcoreapp3.1\29MartPraktice.AssemblyInfo.cs
+C:\Users\tu5zlmzfj\source\repos\29MartPraktice\29MartPraktice\obj\Debug\netcoreapp3.1\29MartPraktice.csproj.CoreCompileInputs.cache
+C:\Users\tu5zlmzfj\source\repos\29MartPraktice\29MartPraktice\obj\Debug\netcoreapp3.1\29MartPraktice.dll
+C:\Users\tu5zlmzfj\source\repos\29MartPraktice\29MartPraktice\obj\Debug\netcoreapp3.1\29MartPraktice.pdb
+C:\Users\tu5zlmzfj\source\repos\29MartPraktice\29MartPraktice\obj\Debug\netcoreapp3.1\29MartPraktice.genruntimeconfig.cache
